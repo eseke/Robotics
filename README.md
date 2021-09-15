@@ -19,4 +19,16 @@ Robotics courses projects and homeworks
     * Homework 1:
       * Simulation of a Denso robot movement while performing an action.
     * Homework 2:
-      * Simulation of a robot movement.
+      * Simulation of a robot movement.  
+1. Autonomous Mobile Robots:  
+    * Team members:
+      * Aleksa Đekić
+      * Ervin Seke  
+    * Homework 1:
+      * Communication by ROS messages.
+    * Homework 2:
+      * Navigation of TurtleBot3 robot.
+    * Homework 3:
+      * Implementation of Split and Merge line extraction algorithm.
+    * Homework 4:
+      * Implementation of Extended Kalman filter.  
